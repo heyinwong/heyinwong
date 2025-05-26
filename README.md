@@ -12,8 +12,8 @@ My interests lie at the intersection of:
 ### Current Project
 
 **ReelFeel**  
-A full-stack mood-based website with movie agent. Built with FastAPI + React, powered by OpenAI & TMDB APIs.  
-Includes GPT-generated taste modeling, JWT-auth, and a watched/waiting list system.  
+A full-stack movie website with ai agent. Built with FastAPI + React, powered by OpenAI & TMDB APIs.  
+Include taste modeling/analysis and recommendation, JWT-auth, and a watched/waiting list system.  
 [View Repo »](https://github.com/heyinwong/reelfeel)
 
 
