@@ -36,7 +36,7 @@ I’m also always tinkering with AI agents, prompt design, and full-stack protot
 
 ### Contact
 
-- Email: heyinwong992@gmail.com  
+- Email: xixianhuang985@gmail.com
 - LinkedIn: [linkedin.com/in/xixianhuang](https://www.linkedin.com/in/xixianhuang)
 
 > _Always learning. Always building. Always watching (movies, too)._
