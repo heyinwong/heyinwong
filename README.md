@@ -1,6 +1,6 @@
 ## Hi there, I'm Xixian Huang 👋
 
-I'm a Computer Science master's student at the University of Wollongong, with a background in Electrical Engineering from Imperial College London.
+I'm a Computer Science master's student at the University of Wollongong, with a background in Electrical and Electronic Engineering from Imperial College London.
 
 My interests lie at the intersection of:
 - AI agent systems
