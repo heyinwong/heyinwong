@@ -1,11 +1,6 @@
-## Hi there, I'm Xixian Huang 👋
+## Hello there, I'm Xixian Huang 
 
-I'm a Computer Science master's student at the University of Wollongong, with a background in Electrical and Electronic Engineering from Imperial College London.
-
-My interests lie at the intersection of:
-- AI agent systems
-- Full-stack application development
-- Data systems and automation
+I'm a CS student at the University of Wollongong, with a background in Electrical and Electronic Engineering from Imperial College London. I am interested at AI and is currently learning all the relative concpets. Currently I am learning MCP and AI agent design, and also how this can be applied into digital transoformation for companies.
 
 ---
 
@@ -27,7 +22,7 @@ Include taste modeling/analysis and recommendation, JWT-auth, and a watched/wait
 
 ---
 
-### Bonus Fact
+### Apart From Tech
 
 I'm a passionate cinephile — find me on [Letterboxd](https://letterboxd.com/XixianH/)  
 I’m also always tinkering with AI agents, prompt design, and full-stack prototypes in my free time.
