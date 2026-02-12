@@ -5,7 +5,7 @@ I am a CS student at the University of Wollongong. My previous life involved stu
 Now, I spend my time trying to understand AI so I can eventually automate my own existence. I prefer working with data and neural networks because, unlike people, models have documentation (usually). I’m currently deep-diving into AI/Data Engineering, trying to figure out why my loss function is higher than my social battery.
 
 ---
-
+![image](./bocchixshame-ezgif.com-crop.gif)
 ### Apart from the Terminal
 
 I am a cinephile who spends way too much time analyzing frames instead of touching grass. You can find the evidence of my cinematic obsession on [Letterboxd](https://letterboxd.com/XixianH/).
