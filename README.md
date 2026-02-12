@@ -1,4 +1,4 @@
-![image](./bocchixshame-ezgif.com-crop.gif)
+![image](./avatar.gif)
 
 ## About Me
 
